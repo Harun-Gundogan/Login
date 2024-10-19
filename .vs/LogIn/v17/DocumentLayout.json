@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harun\\OneDrive\\Masa\u00FCst\u00FC\\LogIn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8642D34-6FDE-43A2-89CF-2ADF6041169D}|LogIn.csproj|c:\\users\\harun\\onedrive\\masa\u00FCst\u00FC\\login\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8642D34-6FDE-43A2-89CF-2ADF6041169D}|LogIn.csproj|solutionrelative:pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8642D34-6FDE-43A2-89CF-2ADF6041169D}|LogIn.csproj|c:\\users\\harun\\onedrive\\masa\u00FCst\u00FC\\login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8642D34-6FDE-43A2-89CF-2ADF6041169D}|LogIn.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8642D34-6FDE-43A2-89CF-2ADF6041169D}|LogIn.csproj|c:\\users\\harun\\onedrive\\masa\u00FCst\u00FC\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8642D34-6FDE-43A2-89CF-2ADF6041169D}|LogIn.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8642D34-6FDE-43A2-89CF-2ADF6041169D}|LogIn.csproj|c:\\users\\harun\\onedrive\\masa\u00FCst\u00FC\\login\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8642D34-6FDE-43A2-89CF-2ADF6041169D}|LogIn.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8642D34-6FDE-43A2-89CF-2ADF6041169D}|LogIn.csproj|c:\\users\\harun\\onedrive\\masa\u00FCst\u00FC\\login\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8642D34-6FDE-43A2-89CF-2ADF6041169D}|LogIn.csproj|solutionrelative:pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\harun\\OneDrive\\Masa\u00FCst\u00FC\\LogIn\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\harun\\OneDrive\\Masa\u00FCst\u00FC\\LogIn\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T16:39:52.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harun\\OneDrive\\Masa\u00FCst\u00FC\\LogIn\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\harun\\OneDrive\\Masa\u00FCst\u00FC\\LogIn\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:39:40.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\harun\\OneDrive\\Masa\u00FCst\u00FC\\LogIn\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\harun\\OneDrive\\Masa\u00FCst\u00FC\\LogIn\\Pages\\Login.razor",
+              "RelativeToolTip": "Pages\\Login.razor",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T12:44:01.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashBoard.razor",
+              "DocumentMoniker": "C:\\Users\\harun\\OneDrive\\Masa\u00FCst\u00FC\\LogIn\\Pages\\DashBoard.razor",
+              "RelativeDocumentMoniker": "Pages\\DashBoard.razor",
+              "ToolTip": "C:\\Users\\harun\\OneDrive\\Masa\u00FCst\u00FC\\LogIn\\Pages\\DashBoard.razor",
+              "RelativeToolTip": "Pages\\DashBoard.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T12:27:53.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\harun\\OneDrive\\Masa\u00FCst\u00FC\\LogIn\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\harun\\OneDrive\\Masa\u00FCst\u00FC\\LogIn\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:27:29.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

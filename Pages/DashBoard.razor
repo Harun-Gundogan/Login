@@ -1,0 +1,31 @@
+﻿@page "/dashboard"
+@using LogIn.Services
+@inject AuthService AuthService
+@inject NavigationManager Navigation
+
+
+<div class="container-sm">
+    <h3>İşlem Ekranı</h3>
+
+    <h4>Giriş yapan kullanıcı: <b>@kullaniciAdi</b></h4>
+
+
+</div>
+
+
+@code {
+    private string? kullaniciAdi;
+
+    protected override async Task OnInitializedAsync() 
+    {
+        var isAuthenticated = await AuthService.IsUserAuthenticated(); 
+        if (!isAuthenticated)
+        {
+            Navigation.NavigateTo("/login");
+        }
+        else
+        {
+            kullaniciAdi = AuthService.GetUsername(); 
+        }
+    }
+}
